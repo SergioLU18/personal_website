@@ -1,0 +1,10 @@
+.welcome-text-container {
+    display: inline-block;
+    background-color: black;
+    text-align: center;
+}
+
+.welcome-text {
+    color: white;
+    padding: 10px;
+}

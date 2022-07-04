@@ -1,0 +1,24 @@
+.navbar-container {
+    background-color: black;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+}
+
+.navbar-tabs {
+    list-style-type: none;
+    color: white;
+}
+
+.navbar-tab {
+    display: block;
+    text-align: center;
+    float: left;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
